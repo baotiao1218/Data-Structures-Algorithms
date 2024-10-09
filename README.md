@@ -6,7 +6,7 @@ The course covers a wide range of data structures and algorithms topics, includi
 
 - Arrays and linked lists
 - Stacks and Queues
-- Trees (including Binary Search Trees and AVL Trees)
+- Trees (including Binary Search Trees)
 - Hashing and Graphs
 - Searching and Sorting Algorithms
 - And more!
