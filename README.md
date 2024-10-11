@@ -4,9 +4,10 @@ This repository contains the solved code using C from the [Mastering Data Struct
 ## Course Overview
 The course covers a wide range of data structures and algorithms topics, including:
 
-- Arrays and linked lists
-- Stacks and Queues
-- Trees (including Binary Search Trees)
-- Hashing and Graphs
+- Recursion
+- Arrays and Linked List Representation
+- Stack and Queues
+- Trees (including BST and AVL Trees)
+- Graphs
+- Hashing Technique
 - Searching and Sorting Algorithms
-- And more!
